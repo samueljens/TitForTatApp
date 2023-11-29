@@ -50,6 +50,7 @@ ui <- dashboardPage(
   
   
   dashboardBody(tags$head(tags$meta(name = "viewport", content = "width=1600")),
+                tags$head(tags$link(rel = "tab icon", href = "favicon.ico")),
     tabItems(
       tabItem(
         tabName = "game",
