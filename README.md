@@ -1,2 +1,2 @@
 # TitForTatApp
-R Shiny app for Robert Axelrod's iterated prisoner's dilemma. 
+R Shiny app for Robert Axelrod's iterated Prisoner's Dilemma. 
